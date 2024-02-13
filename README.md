@@ -19,6 +19,9 @@ HTML&CSS, React, TypeScript
 - React Router Dom: 페이지 간의 동적 라우팅을 구현했다. (useParams데이터 값, useLocation상태정보 값, useMatch위치 유무 등)
 - Styled-components: 각 컴포넌트의 스타일을 정의하고 유지보수가 용이하도록 관리하였다.
 
+![스크린샷 2024-02-13 오후 3 32 25](https://github.com/winterkang/crypto-project/assets/111983968/960768cf-7b64-459a-ab82-c98ebe9de745)
+![스크린샷 2024-02-13 오후 3 32 40](https://github.com/winterkang/crypto-project/assets/111983968/d0132a9d-b711-4c91-bc8a-f4db969a16a6)
+
 
 ### ✏️회고
 리액트의 큰 흐름(페이지 전환, 상태관리 등)을 파악하기에는 좋았지만,
